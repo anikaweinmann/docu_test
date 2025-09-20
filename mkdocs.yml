@@ -1,6 +1,6 @@
 site_name: docu test
 site_url:  https://docu_test
-docs_dir:  docs
+docs_dir:  .
 theme:     readthedocs
 # https://github.com/mkdocs/mkdocs/issues/991
 use_directory_urls: true
