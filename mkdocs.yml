@@ -1,0 +1,10 @@
+site_name: docu test
+site_url:  https://docu_test
+docs_dir:  docs
+theme:     readthedocs
+# https://github.com/mkdocs/mkdocs/issues/991
+use_directory_urls: true
+# extra_css: [extra.css]
+nav:
+  - Home: 'index.md'
+  - Test: 'test.md'
